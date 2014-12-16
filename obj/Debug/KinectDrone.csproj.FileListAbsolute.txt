@@ -1,0 +1,3 @@
+C:\Users\jorda_000\Desktop\KinectBody\KinectDrone\bin\AnyCPU\Debug\BodyBasics-WPF.exe.config
+C:\Users\jorda_000\Desktop\KinectBody\KinectDrone\obj\Debug\BodyBasics-WPF.exe
+C:\Users\jorda_000\Desktop\KinectBody\KinectDrone\obj\Debug\BodyBasics-WPF.pdb
