@@ -1,9 +1,0 @@
-C:\Users\jorda_000\Desktop\AR.Drone-master\AR.Drone-master\AR.Drone.Data\bin\Debug\AR.Drone.Data.dll
-C:\Users\jorda_000\Desktop\AR.Drone-master\AR.Drone-master\AR.Drone.Data\bin\Debug\AR.Drone.Data.pdb
-C:\Users\jorda_000\Desktop\AR.Drone-master\AR.Drone-master\AR.Drone.Data\obj\Debug\AR.Drone.Data.csprojResolveAssemblyReference.cache
-C:\Users\jorda_000\Desktop\AR.Drone-master\AR.Drone-master\AR.Drone.Data\obj\Debug\AR.Drone.Data.dll
-C:\Users\jorda_000\Desktop\AR.Drone-master\AR.Drone-master\AR.Drone.Data\obj\Debug\AR.Drone.Data.pdb
-C:\Users\jorda_000\Desktop\KinectBody\BodyBasics-WPF\AR.Drone.Data\bin\Debug\AR.Drone.Data.dll
-C:\Users\jorda_000\Desktop\KinectBody\BodyBasics-WPF\AR.Drone.Data\bin\Debug\AR.Drone.Data.pdb
-C:\Users\jorda_000\Desktop\KinectBody\BodyBasics-WPF\AR.Drone.Data\obj\Debug\AR.Drone.Data.dll
-C:\Users\jorda_000\Desktop\KinectBody\BodyBasics-WPF\AR.Drone.Data\obj\Debug\AR.Drone.Data.pdb
